@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Gabriel Nyante
+### Hi there 👋🏾, I'm Gabriel Nyante
 
 <!--
 **heregoes/heregoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 + 🌱 I’m currently working on and learning Web based AR/VR Technologies & Everything Blockchain/Crypto related
-- 👯 I’m looking to collaborate on dope projects
+- 🤝 I’m looking to collaborate on dope projects
 
 - 👨🏾‍💻: Personal/Portfolio site [gabrielnyante.com](https://gabrielnyante.com/) 
 - 🖊: [Medium Blog](https://medium.com/@gabnyante)
