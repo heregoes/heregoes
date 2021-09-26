@@ -17,5 +17,5 @@ Blockchain & Crypto will take over the world, not just financially but in almost
 Digital Experiments at [Escape the System](https://escape-system.herokuapp.com/) 
 
 Feeling Generous?
-- Dontate: [Bitcoin (BTC)](https://www.blockchain.com/btc/address/39nPG9gCMCiiDAkHpAsh5Kb3QLcnXoev4N), [Ethereum (ETH)](https://www.blockchain.com/eth/address/0x7a1337f0fF0E1F49C9E90dbF269E3134669860d9), [Chainlink (LINK)](https://etherscan.io/token/0x514910771AF9Ca656af840dff83E8264EcF986CA?a=0x892A64712dae35a775910D75fDc5462433274C9e)
+- Dontate: [BTC](https://www.blockchain.com/btc/address/39nPG9gCMCiiDAkHpAsh5Kb3QLcnXoev4N), [ETH](https://www.blockchain.com/eth/address/0x7a1337f0fF0E1F49C9E90dbF269E3134669860d9), [LINK](https://etherscan.io/token/0x514910771AF9Ca656af840dff83E8264EcF986CA?a=0x892A64712dae35a775910D75fDc5462433274C9e)
 
