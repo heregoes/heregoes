@@ -3,11 +3,11 @@
 <!--
 **heregoes/heregoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 I believe that Augmented Reality and Mixed Reality will fundamentally change the way we interact with our physical and digital worlds by
-merging them together in intuitive ways for users. 
-- 🔭 I’m currently developing Web based AR & VR Solutions, Mixed Reality Experiences. 
+merging them together in intuitive ways. 
+- 🔭 I’m currently developing Web based AR & VR Experiences. 
 
-Blockchain & Crypto will take over the world, not just financially but in almost every facet of contracts, agreements, media, and mediaries. 
-- 🌱 I'm interested in everything Blockchain/Crypto related and the future use-cases/possiblities of Dapps. 
+Blockchain & Crypto will transform the world, not just financially but in almost every facet of contracts, agreements, media, and mediaries. 
+- 🌱 I'm interested in everything Blockchain/Crypto/NFT related and the future use-cases/possiblities of Dapps. 
 
 - 🤝 I’m looking to collaborate on dope projects
 
