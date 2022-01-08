@@ -1,19 +1,15 @@
-### Hi there 👋🏾👋🏾
+### Hi there 👋🏾
 
 <!--
 **heregoes/heregoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I believe that Augmented Reality and Mixed Reality will fundamentally change the way we interact with our physical and digital worlds by
-merging them together in intuitive ways. 
-- 🔭 I’m currently developing Web based AR & VR Experiences. 
-
-Blockchain & Crypto will transform the world, not just financially but in almost every facet of contracts, agreements, media, and mediaries. 
-- 🌱 I'm interested in everything Blockchain/Crypto/NFT related and the future use-cases/possiblities of Dapps. 
-
+Augmented Reality and Mixed Reality will fundamentally change how we interact with our physical and digital worlds by
+merging them together in intuitive ways. Blockchain & Crypto will transform the world, not just financially but in almost every facet of contracts, agreements, media, and mediaries.
+- 🔭 Currently developing Web based AR & VR Experiences. 
+- 🌱 Interested in everything Blockchain/Crypto/NFT related and the future use-cases/possiblities of Dapps. 
 - 🤝 I’m looking to collaborate on dope projects
-
-- 👨🏾‍💻: Personal/Portfolio site [gabrielnyante.com](https://gabrielnyante.com/) 
+- 👨🏾‍💻: Portfolio site [gabrielnyante.com](https://gabrielnyante.com/)
+- 📖: [Mirror.xyz NFT's & Articles](https://mirror.xyz/heregoes.eth)
 - 🖊: [Medium Blog](https://medium.com/@gabnyante)
-
 Digital Experiments at [Escape the System](https://escape-system.herokuapp.com/) 
 
 Feeling Generous?
