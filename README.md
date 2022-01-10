@@ -2,7 +2,7 @@
 
 <!--
 **heregoes/heregoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Augmented Reality and Mixed Reality will fundamentally change how we interact with our physical and digital worlds by
+Augmented Reality and Virtual Reality will fundamentally change how we interact with our physical and digital worlds by
 merging them together in intuitive ways. Blockchain & Crypto will transform the world, not just financially but in almost every facet of contracts, agreements, media, and mediaries.
 - 🔭 Currently developing Web based AR & VR Experiences. 
 - 🌱 Interested in everything Blockchain/Crypto/NFT related and the future use-cases/possiblities of Dapps. 
