@@ -12,8 +12,8 @@ merging them together in intuitive ways. Blockchain will transform the world, no
 - I write tech articles on my [Medium blog 🖊](https://medium.com/@gabnyante)
 
 ### How to reach me
-👨🏾‍💻: Portfolio site [gabrielnyante.com](https://gabrielnyante.com/)
-[![image]{width=50%}(https://github.com/user-attachments/assets/f37769f9-7aad-444d-93d2-ea4f9ef56246)](https://www.linkedin.com/in/gabrielnyante/)
+Portfolio site [gabrielnyante.com](https://gabrielnyante.com/)
+[LinkedIn](https://www.linkedin.com/in/gabrielnyante/)
 
 Feeling Generous?
 - Dontate: [BTC](https://www.blockchain.com/btc/address/39nPG9gCMCiiDAkHpAsh5Kb3QLcnXoev4N), [ETH](https://www.blockchain.com/eth/address/0x7a1337f0fF0E1F49C9E90dbF269E3134669860d9)
